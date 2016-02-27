@@ -1,0 +1,33 @@
+_repo: Andrea-Delfin_3156
+contributor:
+  translator:
+    agent_name: Olesch, Gunther
+    gutenberg_agent_id: '1019'
+    url: http://www.gutenberg.org/2009/agents/1019
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3156'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PT'
+- !lcsh 'Venice (Italy) -- Fiction'
+title: Andrea Delfin
+url: http://www.gutenberg.org/ebooks/3156
