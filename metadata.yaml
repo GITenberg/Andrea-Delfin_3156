@@ -1,5 +1,5 @@
 _repo: Andrea-Delfin_3156
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Olesch, Gunther
@@ -35,5 +35,6 @@ rights_url: ''
 subjects:
 - !lcc 'PT'
 - !lcsh 'Venice (Italy) -- Fiction'
+- GITenberg
 title: Andrea Delfin
 url: http://www.gutenberg.org/ebooks/3156
